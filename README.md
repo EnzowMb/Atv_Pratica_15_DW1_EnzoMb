@@ -11,6 +11,10 @@ Incluindo camada de segurança utilizando a Biblioteca BCrypt utilizando o segui
 http://www.java2s.com/example/jar/j/download-jbcrypt04jar-file.html
 <br>
 <br>
+Adicionado Feedback de falha no login!<br>
+Feedback cadastro de usuário!<br>
+Feedback cadastro de tarefa!
+<br>
 <h3>Aprimoramento da Agenda</h3>
 O item escolhido foi o 1:
 <br>
